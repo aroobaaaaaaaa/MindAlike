@@ -13,7 +13,6 @@
   <img src="screenshots/explorepage.jpeg" width="200" alt="Explore" />
   <img src="screenshots/communityhub.jpeg" width="200" alt="Communities" />
   <img src="screenshots/profile.jpeg" width="200" alt="Profile" />
-  <img src="screenshots/notifications.jpeg" width="200" alt="Notifications" />
   <img src="screenshots/chatAImoderation.jpeg" width="200" alt="AI moderation" />
 </p>
 
