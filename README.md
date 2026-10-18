@@ -7,7 +7,15 @@
 ![Material 3](https://img.shields.io/badge/Material%203-6750A4?logo=materialdesign&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-> 📸 *Add screenshots here (feed, profile, communities, chat).*
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/explorepage.jpeg" width="200" alt="Explore" />
+  <img src="screenshots/communityhub.jpeg" width="200" alt="Communities" />
+  <img src="screenshots/profile.jpeg" width="200" alt="Profile" />
+  <img src="screenshots/notifications.jpeg" width="200" alt="Notifications" />
+  <img src="screenshots/chatAImoderation.jpeg" width="200" alt="AI moderation" />
+</p>
 
 ---
 
